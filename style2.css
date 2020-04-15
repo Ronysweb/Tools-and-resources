@@ -1,0 +1,33 @@
+*
+{
+    margin: 0;
+    text-align: center;
+    list-style-type: none;
+    background-color:  
+    
+}
+
+ .navbar {
+                display: flex;
+                background-color: #333;
+                padding-bottom: 2rem;
+                position: relative;
+            }   
+            .navbar a 
+            {
+                color: white;
+                ;
+                text-decoration: none;
+                 
+            }
+
+            .navbar a:hover {
+                background-color: #ddd;
+                color: black;
+            }
+ 
+p
+{
+    background: beige;
+    line-height: 10rem;
+}
